@@ -1,0 +1,7 @@
+c:\Users\mateusz\documents\visual studio 2013\Projects\MyCellar\CellarPanel\bin\Debug\CellarPanel.dll
+c:\Users\mateusz\documents\visual studio 2013\Projects\MyCellar\CellarPanel\bin\Debug\CellarPanel.pdb
+c:\Users\mateusz\documents\visual studio 2013\Projects\MyCellar\CellarPanel\obj\Debug\CellarPanel.csproj.GenerateResource.Cache
+c:\Users\mateusz\documents\visual studio 2013\Projects\MyCellar\CellarPanel\obj\Debug\CellarPanel.dll
+c:\Users\mateusz\documents\visual studio 2013\Projects\MyCellar\CellarPanel\obj\Debug\CellarPanel.pdb
+c:\Users\mateusz\documents\visual studio 2013\Projects\MyCellar\CellarPanel\obj\Debug\CellarPanel.CellarControl.resources
+C:\Users\mateusz\documents\visual studio 2013\Projects\MyCellar\CellarPanel\obj\Debug\CellarPanel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\bin\Debug\MyCellar.exe.config
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\bin\Debug\MyCellar.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\bin\Debug\MyCellar.pdb
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\obj\Debug\MyCellar.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\obj\Debug\MyCellar.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\obj\Debug\MyCellar.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\obj\Debug\MyCellar.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\obj\Debug\MyCellar.pdb
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\obj\Debug\MyCellar.FormMain.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\bin\Debug\CellarPanel.dll
+c:\users\mateusz\documents\visual studio 2013\Projects\MyCellar\MyCellar\bin\Debug\CellarPanel.pdb
